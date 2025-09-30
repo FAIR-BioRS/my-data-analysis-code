@@ -12,3 +12,6 @@ keywords:
   - biomedical
 license: MIT
 repository-code: https://github.com/FAIR-BioRS/my-data-analysis-code
+doi: 10.5281/zenodo.17238385
+date-released: '2025-09-30'
+version: 1.0.0
