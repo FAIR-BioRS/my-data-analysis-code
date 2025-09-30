@@ -1,0 +1,30 @@
+{
+  "name": "my-data-analysis-code",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "_:author_1",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/FAIR-BioRS/my-data-analysis-code",
+  "dateCreated": "2025-09-30",
+  "description": "Repo to demo codefair.io",
+  "developmentStatus": "active",
+  "issueTracker": "https://github.com/FAIR-BioRS/my-data-analysis-code/issues",
+  "keywords": [
+    "python",
+    "biomedical"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "type": "SoftwareSourceCode"
+}
